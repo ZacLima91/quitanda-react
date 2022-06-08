@@ -1,0 +1,15 @@
+header {
+  background-color:#61d4b0;
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'Permanent Marker', cursive;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.Header__logo {
+  margin-left: 50px;
+}
